@@ -1,0 +1,55 @@
+/*Michael_lake*/
+
+body{
+	width: 600px;
+	margin: 0 auto;
+}
+div{
+	width: 200px;
+	height: 200px;
+	float:left;
+	font-size: 250%;
+	text-align:center;
+}
+
+.blue_box{
+	background-color:blue;
+}
+
+.red_box{
+	background-color:#e00b0b;
+}
+
+.yellow_box{
+	background-color:#e2ff00;
+}
+
+.orange_box{
+	background-color:orange;
+}
+
+.blood_red_box{
+	background-color:#bc0000;
+}
+
+.pink_box{
+	background-color:#f8b4eb;
+}
+
+.purple_box{
+	background-color:#bb1fc1;
+}
+
+.green_box{
+	background-color:#169324;
+}
+
+p{
+	margin-top: 80px;
+}
+
+
+
+
+
+
